@@ -57,7 +57,7 @@ const DarkTreeTeam = [
   {
     name: (<a href="">Viktor Palmkvist </a>),
     image: 'img/Viktor_P.jpg',
-    title: (<>Reasearcher </>),
+    title: (<>Researcher </>),
     description: (<> Viktor is a postdoctoral researcher at KTH Royal Institute of Technology in Stockholm.</>),
   },
   {
