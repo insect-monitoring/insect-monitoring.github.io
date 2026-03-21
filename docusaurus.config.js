@@ -6,12 +6,12 @@ const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
 
 const config = {
-  title: 'DarkTree',
-  tagline: 'Charting the dark regions of the insect tree',
-  url: 'https://insect-darktree.github.io', // Your website URL
+  title: 'Insect monitoring Sweden',
+  tagline: 'Swedish Insect Monitoring Scheme',
+  url: 'https://insect-monitoring.github.io', // Your website URL
   baseUrl: '/',
-  projectName: 'insect-darktree.github.io',
-  organizationName: 'insect-darktree',
+  projectName: 'insect-monitoring.github.io',
+  organizationName: 'insect-monitoring',
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
   // TODO We should eventually fix broken links and throw if any are found
