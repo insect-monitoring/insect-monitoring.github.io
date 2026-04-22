@@ -6,8 +6,8 @@ const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
 
 const config = {
-  title: 'Insect monitoring Sweden',
-  tagline: 'Swedish Insect Monitoring Scheme',
+  title: 'SIMS',
+  tagline: '',
   url: 'https://insect-monitoring.github.io', // Your website URL
   baseUrl: '/',
   projectName: 'insect-monitoring.github.io',
@@ -78,7 +78,7 @@ const config = {
         },
       },
       navbar: {
-        title: 'DarkTree',
+        title: 'SIMS',
         logo: {
           alt: 'DarkTree Logo',
           src: 'img/DarkTreeLogo.png',
@@ -113,7 +113,7 @@ const config = {
             activeBaseRegex: `/news/`
           },
           {
-            href: 'https://github.com/insect-darktree',
+            href: 'https://github.com/insect-monitoring',
             label: 'GitHub',
             position: 'right',
           },
@@ -168,7 +168,7 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Copyright © ${new Date().getFullYear()} <a href="/devteam"> DarkTree Research and Development Team</a> <br>
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="/devteam"> SIMS Research and Development Team</a> <br>
         Built via <a href="https://docusaurus.io">Docusaurus.io</a>`,
       },
       prism: {
