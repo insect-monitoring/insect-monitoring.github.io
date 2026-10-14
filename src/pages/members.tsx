@@ -155,11 +155,11 @@ export default function ContributorsPage() {
           id="current-team"
           title="DarkTree Team"
           people={DarkTreeTeam}
-        />        
-        <PeopleSection
-          id="former-members"
-          title="Former members"
-          people={FormerMembers}
+    //    />        
+    //    <PeopleSection
+    //      id="former-members"
+    //      title="Former members"
+    //      people={FormerMembers}
         />        
         <PeopleSection
           id="scientific-advisors"
