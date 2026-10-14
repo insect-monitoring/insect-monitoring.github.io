@@ -93,49 +93,12 @@ const ScientificAdvis= [
 
 // List of Collaborators
 const Collaborators = [
-  {
-    name: (<a href="https://">Tilia Häggström </a>),
-    image: 'img/Tilia_Haggstrom.jpg',
-    title: (<>MSc student</>),
-    description: (<>Tilia is a MSc student at Uppsala University with a BSc in molecular biology from Uppsala university. Her BSc thesis was on gallmidges (Cecidomyiidae), which will also be the topic of her MSc thesis. She focuses on combining molecular and morphological characters for identification of mycophagous Cecidomyiidae and their phylogenetic relatinships.</>),
-  },
-  {
-    name: (<a href="https://">Fabian Lundell </a>),
-    image: 'img/FabianLundell.jpg',
-    title: (<>MSc student</>),
-    description: (<>Fabian is a MSc student at Uppsala University who specializes in braconid wasps (Family Braconidae) 
-    which was the focus of his BSc thesis. He also does braconid research at Station Linné together with Dave Karlsson and Mårten Klinth.</>),
-  },
-  {
-    name: (<a href="https://">Cristina Lupaşcu-Vasilița</a>),
-    image: 'img/Vasilita.jpg',
-    title: (<>Researcher</>),
-    description: (<>Doctoral candidate at the State Museum of Natural History in Stuttgart, Department of Entomology, focusing on dark taxa. Researcher at the Karlsruhe Institute of Technology focusing on the integration of synchrotron-based CT-scanning and DNA sequencing of insects. </>),
-  },
-  {
-    name: (<a href="https://www.ips.kit.edu/2890_5177.php">Thomas van de Kamp</a>),
-    image: 'img/Kamp.jpg',
-    title: (<>Researcher</>),
-    description: (<>Head of the IPS/LAS BioLab at Karlsruhe Institute of Technology. PI for morphological imaging in life sciences. Coordinator for the research topic “Building Blocks of Life” within the Helmholtz program “From Matter to Materials and Life”.</>),
-  },
-  {
-    name: (<a href="">Emily Hartop</a>),
-    image: 'img/Hartopsquare.jpg',
-    title: (<>Researcher</>),
-    description: (<>Emily is an Associate Professor at NTNU in Trondheim, Norway. She is an entomologist specialising in dark taxa, with a focus on scuttle flies (Diptera: Phoridae). She contributes taxonomic expertise on hyperdiverse and under-described insect lineages within the DarkTree project.</>),
-  },
-  {
-    name: (<a href="">Jessica Awad</a>),
-    image: 'img/JessAwad.jpg',
-    title: (<>Researcher</>),
-    description: (<>Jessica is a Researcher at Naturalis Biodiversity Center in Leiden, Netherlands. She is an entomologist specialising in dark taxa, with a focus on microscopic parasitoid wasps that lay their eggs inside gall midges (Hymenoptera: Platygastrinae). </>),
-  },
-  {
-    name: (<a href="">Want to get Involved?</a>),
-    image: 'img/DarkTreeLogo.png',
-    //title: (<></>),
-    description: (<>We are welcoming collaborations! If you want to get involved with the DarkTree project go to <a href="https://insect-darktree.github.io/involved/get_involved">this page</a> to read more.</>),
-  },
+ // {
+ //   name: (<a href="https://">Tilia Häggström </a>),
+ //   image: 'img/Tilia_Haggstrom.jpg',
+ //   title: (<>MSc student</>),
+ //   description: (<>Tilia is a MSc student at Uppsala University with a BSc in molecular biology from Uppsala university. Her BSc thesis was on gallmidges (Cecidomyiidae), which will also be the topic of her MSc thesis. She focuses on combining molecular and morphological characters for identification of mycophagous Cecidomyiidae and their phylogenetic relatinships.</>),
+ // },
   ];
 
 // --- Person card ---
