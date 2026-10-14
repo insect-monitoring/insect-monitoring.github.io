@@ -8,9 +8,9 @@ const LandingpageText: React.FC = () => {
   return (
     <div className={styles.Content}>
       <div className={styles.HeaderContainer}>
-        <h4 className={styles.sectionTitle}>
+        <h2 className={styles.sectionTitle}>
           Swedish Insect Monitoring Scheme - SIMS 
-        </h4>
+        </h2>
         <h4 className={styles.Description}>
           Insects are essential to healthy ecosystems, yet we know surprisingly little about how most species are changing. The Swedish Insect Monitoring Scheme (SIMS) is building a unique, long-term record of Sweden’s insect fauna to reveal trends in insect diversity and populations.
           </h4>
