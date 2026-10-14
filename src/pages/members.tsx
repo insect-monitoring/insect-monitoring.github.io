@@ -9,8 +9,8 @@ const DarkTreeTeam = [
   {
     name: (<a href="https://www.thetangledlines.de/ela/#section0">Ela Iwaszkiewicz-Eggebrecht</a>),
     image: 'img/Ela_I_E_lab.jpg',
-    title: (<>Researcher </>),
-    description: (<> Ela holds a PhD in Evolutionary Biology from the Max Planck Institute (Germany) and an MSc in Oceanography from Sorbonne University (France).  
+    title: (<>Research Lead </>),
+    description: (<> Ela is an evolutionary biologist specialising in insect biodiversity monitoring using DNA-based methods. Her work involves metabarcoding as well as individual insect barcoding and development of insect abundance quantification methods. She holds a PhD in Evolutionary Biology from the Max Planck Institute (Germany) and an MSc in Oceanography from Sorbonne University (France).  
     [contact: ela.iwaszkiewicz@nrm.se]
     </>),
   },
@@ -26,7 +26,7 @@ const DarkTreeTeam = [
   {
     name: (<a href="">Anders Johnson</a>),
     image: 'img/SIMS_round.png',
-    title: (<>Lab Specialist </>),
+    title: (<>Lab Specialist and Bioinformatician </>),
     description: (<> Anders is...
     </>),
   },
@@ -41,6 +41,10 @@ const DarkTreeTeam = [
     He also has a long-standing interest in insect diversity and evolution, including automated image-based 
     identification, and leading the Insect Biome Atlas project.</>),
   },
+];
+
+// List of Scientific Advisory Board
+const ScientificAdvis= [
   {
     name: (<a href="">Andreia Miraldo </a>),
     image: 'img/SIMS_round.png',
@@ -75,14 +79,9 @@ const DarkTreeTeam = [
   } 
 ];
 
-// List of Scientific Advisory Board
-const ScientificAdvis= [
-  
-];
-
 // List of Former Members
 // Appear in order
- const FormerMembers = [
+// const FormerMembers = [
   //{
     //name: (<a href="https://www.kth.se/profile/caylak">Gizem Çaylak </a>),
     //image: 'img/caylak.jpg',
@@ -90,17 +89,17 @@ const ScientificAdvis= [
     //description: (<>Gizem is a PhD student at KTH Royal Institute of Technology. Her research focuses on developing methods for improving inference 
     //in probabilistic programming languages, with applications to phylogenetic studies.</>),
   //},
-];
+//];
 
 // List of Collaborators
-const Collaborators = [
-  {
-    name: (<a href="">Want to get Involved?</a>),
-    image: 'img/SIMS_round.png',
+//const Collaborators = [
+ // {
+   // name: (<a href="">Want to get Involved?</a>),
+   // image: 'img/SIMS_round.png',
     //title: (<></>),
-    description: (<>We are welcoming collaborations! If you want to get involved with the DarkTree project go to <a href="https://insect-darktree.github.io/involved/get_involved">this page</a> to read more.</>),
-  },
-];
+    //description: (<>We are welcoming collaborations! If you want to get involved with the DarkTree project go to <a href="https://insect-darktree.github.io/involved/get_involved">this page</a> to read more.</>),
+  //},
+//];
 
 // --- Person card ---
 function Person({name, title, image, description}) {
@@ -156,21 +155,21 @@ export default function ContributorsPage() {
           id="current-team"
           title="DarkTree Team"
           people={DarkTreeTeam}
-        />        
-        <PeopleSection
-          id="former-members"
-          title="Former members"
-          people={FormerMembers}
+    //    />        
+    //    <PeopleSection
+    //      id="former-members"
+    //      title="Former members"
+    //      people={FormerMembers}
         />        
         <PeopleSection
           id="scientific-advisors"
           title="Scientific Advisory Board"
           people={ScientificAdvis}
-        />
-        <PeopleSection
-          id="collaborators"
-          title="Collaborators"
-          people={Collaborators}
+    //    />
+    //    <PeopleSection
+    //      id="collaborators"
+    //      title="Collaborators"
+    //      people={Collaborators}
     //    />
     //    <PeopleSection
     //      id="how-to-become-a-contributor"
