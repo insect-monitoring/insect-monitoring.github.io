@@ -43,6 +43,17 @@ const DarkTreeTeam = [
   },
 ];
 
+// List of Collaborators
+//const Collaborators = [
+ // {
+   // name: (<a href="">Want to get Involved?</a>),
+   // image: 'img/SIMS_round.png',
+    //title: (<></>),
+    //description: (<>We are welcoming collaborations! If you want to get involved with the DarkTree project go to <a href="https://insect-darktree.github.io/involved/get_involved">this page</a> to read more.</>),
+  //},
+//];
+
+
 // List of Scientific Advisory Board
 const ScientificAdvis= [
   {
@@ -78,28 +89,6 @@ const ScientificAdvis= [
     and (macro)Lepidoptera. He is deeply involved in education and outreach and has a strong passion for natural history education.</>),
   } 
 ];
-
-// List of Former Members
-// Appear in order
-// const FormerMembers = [
-  //{
-    //name: (<a href="https://www.kth.se/profile/caylak">Gizem Çaylak </a>),
-    //image: 'img/caylak.jpg',
-    //title: (<>PhD student </>),
-    //description: (<>Gizem is a PhD student at KTH Royal Institute of Technology. Her research focuses on developing methods for improving inference 
-    //in probabilistic programming languages, with applications to phylogenetic studies.</>),
-  //},
-//];
-
-// List of Collaborators
-//const Collaborators = [
- // {
-   // name: (<a href="">Want to get Involved?</a>),
-   // image: 'img/SIMS_round.png',
-    //title: (<></>),
-    //description: (<>We are welcoming collaborations! If you want to get involved with the DarkTree project go to <a href="https://insect-darktree.github.io/involved/get_involved">this page</a> to read more.</>),
-  //},
-//];
 
 // --- Person card ---
 function Person({name, title, image, description}) {
@@ -165,16 +154,16 @@ export default function ContributorsPage() {
           id="scientific-advisors"
           title="Scientific Advisory Board"
           people={ScientificAdvis}
-    //    />
-    //    <PeopleSection
-    //      id="collaborators"
-    //      title="Collaborators"
-    //      people={Collaborators}
-    //    />
-    //    <PeopleSection
-    //      id="how-to-become-a-contributor"
-    //      title="How to become a contributor"
-     //     people={[]}
+        />
+        <PeopleSection
+          id="collaborators"
+          title="Collaborators"
+          people={Collaborators}
+        />
+        <PeopleSection
+          id="how-to-become-a-contributor"
+          title="How to become a contributor"
+          people={[]}
         />
       </div>
     </Layout>
