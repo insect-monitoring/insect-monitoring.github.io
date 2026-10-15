@@ -47,11 +47,10 @@ const DarkTreeTeam = [
 // Appear in order
 const FormerMembers = [
   {
-    name: (<a href="https://www.kth.se/profile/caylak">Gizem Çaylak </a>),
-    image: 'img/caylak.jpg',
+    name: (<a href="">Nobody to report</a>),
+    image: 'img/nopic.jpeg',
     title: (<>PhD student </>),
-    description: (<>Gizem is a PhD student at KTH Royal Institute of Technology. Her research focuses on developing methods for improving inference 
-    in probabilistic programming languages, with applications to phylogenetic studies.</>),
+    description: (<>Gno description</>),
   },
 ];
 
