@@ -6,7 +6,7 @@ const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
 
 const config = {
-  title: 'SIMS',
+  title: '\n',
   tagline: '',
   url: 'https://insect-monitoring.github.io', // Your website URL
   baseUrl: '/',
