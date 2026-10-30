@@ -40,17 +40,6 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'tree',
-        path: 'tree',
-        routeBasePath: 'tree',
-        sidebarPath: require.resolve('./sidebarsGettingStarted.js'),
-        exclude: ['README.md'],
-        // ... other options
-      },
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
         id: 'involved',
         path: 'involved',
         routeBasePath: 'involved',
@@ -88,12 +77,6 @@ const config = {
             to: 'docs',
             position: 'left',
             label: 'Project',
-          },
-          {
-            to: '/tree/tree',
-            position: 'left',
-            label: 'Explore tree',
-            activeBaseRegex: `/tree/`
           },
           {
             to: '/involved/get_involved',
