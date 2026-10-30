@@ -78,12 +78,12 @@ const config = {
             position: 'left',
             label: 'Project',
           },
-          {
-            to: '/involved/get_involved',
-            position: 'left',
-            label: 'Get involved',
-            activeBaseRegex: `/get_involved/`
-          },
+//          {
+//            to: '/involved/get_involved',
+//            position: 'left',
+//            label: 'Get involved',
+//            activeBaseRegex: `/get_involved/`
+//          },
           {
             to: 'members',
             position: 'left',
