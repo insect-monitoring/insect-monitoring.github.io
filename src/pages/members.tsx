@@ -27,7 +27,7 @@ const DarkTreeTeam = [
     name: (<a href="">Anders Johnson</a>),
     image: 'img/SIMS_round.png',
     title: (<>Bioinformatician </>),
-    description: (<>Few words about Anders...
+    description: (<>Anders is a molecular ecologist specializing in omics-based approaches to biodiversity monitoring. His expertise spans field sampling, laboratory method development, and bioinformatics. His current work within the project focuses on insect metabarcoding and post-sequencing data processing. This builds on his background in extremophile microbial ecology within acidic, deep-biosphere, and thermophilic environments. Anders holds a PhD in Ecology from Linnaeus University (Kalmar, Sweden) and an MSc in Biological Sciences from Idaho State University (Pocatello, USA).
     </>),
   },
   {

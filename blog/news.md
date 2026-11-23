@@ -6,7 +6,7 @@ sidebar_position: 1
 # News
 
 ### November 2026
-Ela presented ongoing work at the International Barcode of Life Conference in Bangkok, Thailand. A highlight was our FAVIS protocol, a non-destructive method for DNA metabarcoding of insect bulk samples while preserving their morphology for further study.
+Ela presented ongoing work at the International Barcode of Life Conference in Bangkok, Thailand. A highlight was our FAVIS protocol (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286272), a non-destructive method for DNA metabarcoding of insect bulk samples while preserving their morphology for further study.
 
 Supported by micro-CT imaging, our results show that FAVIS causes minimal structural damage compared with conventional lysis methods. We were delighted by the strong interest in FAVIS and the opportunity to share our work with the international DNA barcoding community!
 
