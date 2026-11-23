@@ -10,7 +10,7 @@ Insect populations are changing worldwide, with growing evidence of widespread d
 Using DNA metabarcoding techniques, it is possible to identify thousands of insect species from environmental samples more efficiently than through traditional identification methods. Building on the Insect Biome Atlas project [https://www.insectbiomeatlas.org/], this research combines DNA analysis with insect samples collected using Malaise traps at sites representing a wide range of Swedish habitats. By extending this monitoring effort through 2027, the project will establish an unprecedented eight-year dataset documenting insect diversity and changes over time.
 
 ![Sampling](../static/img/Samples_SIMS.jpg)
-Fig. 1. (A) Collecting sites targeted in the project are spread throughout Sweden and represent six distinct habitat types. (B) To preserve DNA, samples are stored in a dedicated freezer house at Station Linné at -20°C.
+*Fig. (A) Collecting sites targeted in the project are spread throughout Sweden and represent six distinct habitat types. (B) To preserve DNA, samples are stored in a dedicated freezer house at Station Linné at -20°C.*
 
 The collected data will be used to investigate trends in insect populations, species distributions, and community composition. The research will explore how different insect groups respond to environmental conditions and identify broader patterns of change, including those affecting species that are difficult to monitor individually. This approach will provide new insights into the structure and dynamics of insect communities at a national scale.
 
